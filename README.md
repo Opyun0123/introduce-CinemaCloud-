@@ -2,8 +2,7 @@
 
 **Cinemacloud Web OTT Service v1.0**
 
-![Cinemacloud Image](./images/mainImage.png)
-[시네마클라우드](https://github.com/juseungpark97/FinalProject)
+
 
 **개발 기간**: 2024.08 ~ 2024.09
 
